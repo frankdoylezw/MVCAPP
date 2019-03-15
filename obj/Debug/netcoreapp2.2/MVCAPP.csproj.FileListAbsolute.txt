@@ -28,3 +28,8 @@ C:\_SourceControl\MVCAPP\obj\Debug\netcoreapp2.2\MVCAPP.Views.pdb
 C:\_SourceControl\MVCAPP\obj\Debug\netcoreapp2.2\MVCAPP.dll
 C:\_SourceControl\MVCAPP\obj\Debug\netcoreapp2.2\MVCAPP.pdb
 C:\_SourceControl\MVCAPP\obj\Debug\netcoreapp2.2\MVCAPP.csproj.CopyComplete
+C:\_SourceControl\MVCAPP\obj\Debug\netcoreapp2.2\Razor\Views\Person\Create.g.cshtml.cs
+C:\_SourceControl\MVCAPP\obj\Debug\netcoreapp2.2\Razor\Views\Person\Delete.g.cshtml.cs
+C:\_SourceControl\MVCAPP\obj\Debug\netcoreapp2.2\Razor\Views\Person\Details.g.cshtml.cs
+C:\_SourceControl\MVCAPP\obj\Debug\netcoreapp2.2\Razor\Views\Person\Edit.g.cshtml.cs
+C:\_SourceControl\MVCAPP\obj\Debug\netcoreapp2.2\Razor\Views\Person\Index.g.cshtml.cs

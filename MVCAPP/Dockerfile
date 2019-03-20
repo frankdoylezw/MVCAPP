@@ -13,4 +13,4 @@ RUN dotnet publish -c Release -o out
 FROM microsoft/dotnet:2.2-aspnetcore-runtime
 WORKDIR /app
 COPY --from=build-env /app/out .
-ENTRYPOINT ["dotnet", "ui.dll"]
+ENTRYPOINT ["dotnet", "MVCAPP.dll"]
